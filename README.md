@@ -1,2 +1,3 @@
 # XMBPrototype
-Created with CodeSandbox
+Tester XMB prototype skin
+Built with ReactJS
